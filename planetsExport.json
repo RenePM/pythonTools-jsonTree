@@ -1,0 +1,66 @@
+{
+    "_id": "5d9de4367611574268c38f33",
+    "planets": [
+        {
+            "name": "Earth",
+            "radius": {
+                "value": 6.371,
+                "unit": "km"
+            }
+        },
+        {
+            "name": "Jupiter",
+            "radius": {
+                "value": 69.911,
+                "unit": "km"
+            }
+        },
+        {
+            "name": "Mars",
+            "radius": {
+                "value": 3.39,
+                "unit": "km"
+            }
+        }
+    ],
+    "object0": {
+        "object0.0": {
+            "object0.0.0": {
+                "object0.0.0.0": {
+                    "object0.0.0.0.0": {
+                        "fieldA": "valueA",
+                        "fieldB": "valueB",
+                        "filedC": "valueC"
+                    }
+                },
+                "filed0.0.0.0": "value0.0.0.0",
+                "field0.0.0.1": "value0.0.0.1"
+            }
+        }
+    },
+    "binaryField": "",
+    "booleanField": false,
+    "codeField": {
+        "scope": {},
+        "code": ""
+    },
+    "dateField": "2000-12-31T23:00:00.000Z",
+    "decimal128Field": {
+        "$numberDecimal": "8.88"
+    },
+    "doubleField": 8.8888,
+    "int32Field": 8,
+    "int64Field": "88",
+    "maxKeyField": {
+        "_bsontype": "MaxKey"
+    },
+    "minKeyField": {
+        "_bsontype": "MinKey"
+    },
+    "nullField": null,
+    "objectIdField": "5da068377611574268c38f34",
+    "BSONRegexpField": {},
+    "symbolField": "",
+    "timestampField": "6746507565967867905",
+    "undefinedField": null
+}
